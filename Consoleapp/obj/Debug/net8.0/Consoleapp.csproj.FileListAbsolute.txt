@@ -1,0 +1,42 @@
+D:\dotnet\Consoleapp\obj\Debug\net8.0\Consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Consoleapp\obj\Debug\net8.0\Consoleapp.AssemblyInfoInputs.cache
+D:\dotnet\Consoleapp\obj\Debug\net8.0\Consoleapp.AssemblyInfo.cs
+D:\dotnet\Consoleapp\obj\Debug\net8.0\Consoleapp.csproj.CoreCompileInputs.cache
+D:\dotnet\Consoleapp\bin\Debug\net8.0\Consoleapp.exe
+D:\dotnet\Consoleapp\bin\Debug\net8.0\Consoleapp.deps.json
+D:\dotnet\Consoleapp\bin\Debug\net8.0\Consoleapp.runtimeconfig.json
+D:\dotnet\Consoleapp\bin\Debug\net8.0\Consoleapp.dll
+D:\dotnet\Consoleapp\bin\Debug\net8.0\Consoleapp.pdb
+D:\dotnet\Consoleapp\obj\Debug\net8.0\Consoleapp.dll
+D:\dotnet\Consoleapp\obj\Debug\net8.0\refint\Consoleapp.dll
+D:\dotnet\Consoleapp\obj\Debug\net8.0\Consoleapp.pdb
+D:\dotnet\Consoleapp\obj\Debug\net8.0\Consoleapp.genruntimeconfig.cache
+D:\dotnet\Consoleapp\obj\Debug\net8.0\ref\Consoleapp.dll
+E:\Semester\Sadik 6th Sem\dotNet\Consoleapp\obj\Debug\net8.0\Consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester\Sadik 6th Sem\dotNet\Consoleapp\obj\Debug\net8.0\Consoleapp.AssemblyInfoInputs.cache
+E:\Semester\Sadik 6th Sem\dotNet\Consoleapp\obj\Debug\net8.0\Consoleapp.AssemblyInfo.cs
+E:\Semester\Sadik 6th Sem\dotNet\Consoleapp\obj\Debug\net8.0\Consoleapp.csproj.CoreCompileInputs.cache
+E:\Semester\Sadik 6th Sem\dotNet\Consoleapp\obj\Debug\net8.0\Consoleapp.dll
+E:\Semester\Sadik 6th Sem\dotNet\Consoleapp\obj\Debug\net8.0\refint\Consoleapp.dll
+E:\Semester\Sadik 6th Sem\dotNet\Consoleapp\obj\Debug\net8.0\Consoleapp.pdb
+E:\Semester\Sadik 6th Sem\dotNet\Consoleapp\bin\Debug\net8.0\Consoleapp.exe
+E:\Semester\Sadik 6th Sem\dotNet\Consoleapp\bin\Debug\net8.0\Consoleapp.deps.json
+E:\Semester\Sadik 6th Sem\dotNet\Consoleapp\bin\Debug\net8.0\Consoleapp.runtimeconfig.json
+E:\Semester\Sadik 6th Sem\dotNet\Consoleapp\bin\Debug\net8.0\Consoleapp.dll
+E:\Semester\Sadik 6th Sem\dotNet\Consoleapp\bin\Debug\net8.0\Consoleapp.pdb
+E:\Semester\Sadik 6th Sem\dotNet\Consoleapp\obj\Debug\net8.0\Consoleapp.genruntimeconfig.cache
+E:\Semester\Sadik 6th Sem\dotNet\Consoleapp\obj\Debug\net8.0\ref\Consoleapp.dll
+E:\Semester\Sadik 6th Sem\NetCentric.Vedas2080\Consoleapp\bin\Debug\net8.0\Consoleapp.exe
+E:\Semester\Sadik 6th Sem\NetCentric.Vedas2080\Consoleapp\bin\Debug\net8.0\Consoleapp.deps.json
+E:\Semester\Sadik 6th Sem\NetCentric.Vedas2080\Consoleapp\bin\Debug\net8.0\Consoleapp.runtimeconfig.json
+E:\Semester\Sadik 6th Sem\NetCentric.Vedas2080\Consoleapp\bin\Debug\net8.0\Consoleapp.dll
+E:\Semester\Sadik 6th Sem\NetCentric.Vedas2080\Consoleapp\bin\Debug\net8.0\Consoleapp.pdb
+E:\Semester\Sadik 6th Sem\NetCentric.Vedas2080\Consoleapp\obj\Debug\net8.0\Consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester\Sadik 6th Sem\NetCentric.Vedas2080\Consoleapp\obj\Debug\net8.0\Consoleapp.AssemblyInfoInputs.cache
+E:\Semester\Sadik 6th Sem\NetCentric.Vedas2080\Consoleapp\obj\Debug\net8.0\Consoleapp.AssemblyInfo.cs
+E:\Semester\Sadik 6th Sem\NetCentric.Vedas2080\Consoleapp\obj\Debug\net8.0\Consoleapp.csproj.CoreCompileInputs.cache
+E:\Semester\Sadik 6th Sem\NetCentric.Vedas2080\Consoleapp\obj\Debug\net8.0\Consoleapp.dll
+E:\Semester\Sadik 6th Sem\NetCentric.Vedas2080\Consoleapp\obj\Debug\net8.0\refint\Consoleapp.dll
+E:\Semester\Sadik 6th Sem\NetCentric.Vedas2080\Consoleapp\obj\Debug\net8.0\Consoleapp.pdb
+E:\Semester\Sadik 6th Sem\NetCentric.Vedas2080\Consoleapp\obj\Debug\net8.0\Consoleapp.genruntimeconfig.cache
+E:\Semester\Sadik 6th Sem\NetCentric.Vedas2080\Consoleapp\obj\Debug\net8.0\ref\Consoleapp.dll

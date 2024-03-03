@@ -1,0 +1,14 @@
+E:\Semester\Sadik 6th Sem\dotNet\Capitalizer\obj\Debug\net8.0\Capitalizer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester\Sadik 6th Sem\dotNet\Capitalizer\obj\Debug\net8.0\Capitalizer.AssemblyInfoInputs.cache
+E:\Semester\Sadik 6th Sem\dotNet\Capitalizer\obj\Debug\net8.0\Capitalizer.AssemblyInfo.cs
+E:\Semester\Sadik 6th Sem\dotNet\Capitalizer\obj\Debug\net8.0\Capitalizer.csproj.CoreCompileInputs.cache
+E:\Semester\Sadik 6th Sem\dotNet\Capitalizer\bin\Debug\net8.0\Capitalizer.exe
+E:\Semester\Sadik 6th Sem\dotNet\Capitalizer\bin\Debug\net8.0\Capitalizer.deps.json
+E:\Semester\Sadik 6th Sem\dotNet\Capitalizer\bin\Debug\net8.0\Capitalizer.runtimeconfig.json
+E:\Semester\Sadik 6th Sem\dotNet\Capitalizer\bin\Debug\net8.0\Capitalizer.dll
+E:\Semester\Sadik 6th Sem\dotNet\Capitalizer\bin\Debug\net8.0\Capitalizer.pdb
+E:\Semester\Sadik 6th Sem\dotNet\Capitalizer\obj\Debug\net8.0\Capitalizer.dll
+E:\Semester\Sadik 6th Sem\dotNet\Capitalizer\obj\Debug\net8.0\refint\Capitalizer.dll
+E:\Semester\Sadik 6th Sem\dotNet\Capitalizer\obj\Debug\net8.0\Capitalizer.pdb
+E:\Semester\Sadik 6th Sem\dotNet\Capitalizer\obj\Debug\net8.0\Capitalizer.genruntimeconfig.cache
+E:\Semester\Sadik 6th Sem\dotNet\Capitalizer\obj\Debug\net8.0\ref\Capitalizer.dll
