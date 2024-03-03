@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Semester\\Sadik 6th Sem\\NetCentric.Vedas2080\\Assignment1\\Greeter\\Greeter.csproj": {}
+    "E:\\Semester\\Sadik 6th Sem\\NetCentric.Vedas2080\\Assignment 1\\Greeter\\Greeter.csproj": {}
   },
   "projects": {
-    "E:\\Semester\\Sadik 6th Sem\\NetCentric.Vedas2080\\Assignment1\\Greeter\\Greeter.csproj": {
+    "E:\\Semester\\Sadik 6th Sem\\NetCentric.Vedas2080\\Assignment 1\\Greeter\\Greeter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Semester\\Sadik 6th Sem\\NetCentric.Vedas2080\\Assignment1\\Greeter\\Greeter.csproj",
+        "projectUniqueName": "E:\\Semester\\Sadik 6th Sem\\NetCentric.Vedas2080\\Assignment 1\\Greeter\\Greeter.csproj",
         "projectName": "Greeter",
-        "projectPath": "E:\\Semester\\Sadik 6th Sem\\NetCentric.Vedas2080\\Assignment1\\Greeter\\Greeter.csproj",
+        "projectPath": "E:\\Semester\\Sadik 6th Sem\\NetCentric.Vedas2080\\Assignment 1\\Greeter\\Greeter.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Semester\\Sadik 6th Sem\\NetCentric.Vedas2080\\Assignment1\\Greeter\\obj\\",
+        "outputPath": "E:\\Semester\\Sadik 6th Sem\\NetCentric.Vedas2080\\Assignment 1\\Greeter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
