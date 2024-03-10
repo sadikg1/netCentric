@@ -1,1 +1,3 @@
 dotnet new console -n Capitalizer //to creatre a new console app
+
+dotnet new mvc -n BookStore//to ctrate mvc 
