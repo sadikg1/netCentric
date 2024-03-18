@@ -1,3 +1,9 @@
 dotnet new console -n Capitalizer //to creatre a new console app
 
 dotnet new mvc -n BookStore//to ctrate mvc 
+
+ dotnet tool install dotnet-ef --global
+
+dotnet ef migrations add relevant_name
+
+dotnet ef database update
