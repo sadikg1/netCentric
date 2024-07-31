@@ -1,10 +1,12 @@
 using BookStore.Data.Models;
 using Microsoft.AspNetCore.Mvc;
 public class AuthorController: Controller
+
 {
+    BookStoreDb db = new BookStoreDb();
+
     public IActionResult Index()
     {
-        BookStoreDb db = new BookStoreDb();
         List<Author> authors = db.Authors.ToList();
 
         return View(authors);
@@ -19,7 +21,8 @@ public class AuthorController: Controller
     [HttpPost]
     public IActionResult Add(Author author)
     {
-        BookStoreDb db = new BookStoreDb();
+        //setting cookie
+        
         db.Authors.Add(author);
         db.SaveChanges();
 
@@ -28,7 +31,6 @@ public class AuthorController: Controller
 
     public IActionResult Edit(int id)
     {
-        BookStoreDb db = new BookStoreDb();
         var author = db.Authors.Find(id);
         return View(author);
     }
@@ -36,7 +38,6 @@ public class AuthorController: Controller
     [HttpPost]
     public IActionResult Edit(Author author)
     {
-        BookStoreDb db = new BookStoreDb();
         db.Authors.Update(author);
         db.SaveChanges();
 
@@ -45,7 +46,6 @@ public class AuthorController: Controller
 
     public IActionResult Delete(int id)
     {
-        BookStoreDb db = new BookStoreDb();
         var author = db.Authors.Find(id);
         return View(author);
     }
@@ -53,7 +53,6 @@ public class AuthorController: Controller
     [HttpPost]
     public IActionResult Delete(Author author)
     {
-        BookStoreDb db = new BookStoreDb();
         db.Authors.Remove(author);
         db.SaveChanges();
 

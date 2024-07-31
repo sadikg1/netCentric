@@ -17,4 +17,3 @@ librarian.DisplayInfo();
 Console.WriteLine();
 
 librarian.IssueBook(book);
-librarian.ReturnBook(book);
